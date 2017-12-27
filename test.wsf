@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<job id="test">
+  <script language="JScript">
+      new ActiveXObject("WScript.Shell").Run("calc");
+  </script>
+</job>
