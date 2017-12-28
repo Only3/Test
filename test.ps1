@@ -6,5 +6,4 @@ Param (
    [String]$Age
 )
 echo "$Name $Age"
-[Environment]::Exit(1)
 }
