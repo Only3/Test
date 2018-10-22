@@ -4,7 +4,6 @@
 <script language="JScript">
 <![CDATA[
 new ActiveXObject("WScript.Shell").Run("calc");
-//var r = new ActiveXObject("WScript.Shell").Run("calc"); 
 ]]>
 </script>
 </component>
