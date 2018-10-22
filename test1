@@ -3,8 +3,8 @@
 <component id="test1">
 <script language="VBScript">
 <![CDATA[
-CreateObject("WScript.Shell").Run("calc")
-//var r = CreateObject("WScript.Shell").Run("calc")
+MsgBox "Hi"
+//Set r = CreateObject("WScript.Shell").Run("calc")
 ]]>
 </script>
 </component>
