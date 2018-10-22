@@ -4,7 +4,7 @@
 <script language="VBScript">
 <![CDATA[
 MsgBox "Hi"
-//Set r = CreateObject("WScript.Shell").Run("calc")
+
 ]]>
 </script>
 </component>
