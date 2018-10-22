@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<package>
+<component id="test1">
+<script language="VBScript">
+<![CDATA[
+CreateObject("WScript.Shell").Run("calc");
+//var r = CreateObject("WScript.Shell").Run("calc"); 
+]]>
+</script>
+</component>
+</package>
